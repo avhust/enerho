@@ -101,7 +101,7 @@
           },
           "title": "Баланс Енергетики України",
           "text": "Щотижневий дайджест новин. Щомісячний аналітичний звіт",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Дивитися приклад</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Підписатися</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Дивитися приклад</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#form2-6\" data-toolbar=\"-mbrBtnMove\">Підписатися</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -110,7 +110,8 @@
           "_anchor": "header2-2",
           "_styles": {
             "H1": {
-              "color": "#fbfbfb"
+              "color": "#fbfbfb",
+              "font-size": "48px"
             },
             "P": {
               "color": "#fbfbfb"
@@ -200,17 +201,17 @@
           "_anchor": "testimonials1-4",
           "testimonial": [
             {
-              "authorName": "Читати далі",
+              "authorName": "<a href=\"page1.html\">Читати далі</a>",
               "authorBio": "",
               "text": "<em>“Мінекології презентували два ресурси, які дозволять пришвидшити доступ до інформації про стан річок України та щодо дозвільної документації на користування надрами.  Держенергоефективності проведе круглий стіл для обговорення «зелених» облігацій в Україні. ScatecSolar планує побудувати дві СЕС у Миколаєві.</em><em style=\"font-size: 1rem;\">”</em>"
             },
             {
-              "authorName": "Читати далі",
+              "authorName": "<a href=\"page1.html\">Читати далі</a>",
               "authorBio": "",
               "text": "<em>“Держенергоефективності запрошує до обговорення впровадження «зелених» облігацій як засобу стимулювання ВДЕ в Україні. Круглий стіл відбудеться 10 липня ”</em>"
             },
             {
-              "authorName": "Читати далі",
+              "authorName": "<a href=\"page1.html\">Читати далі</a>",
               "authorBio": "",
               "text": "<em>“Норвежська ScatecSolar продовжує поширювати свій інвестиційний портфель по регіонах України. Минулого тижня повідомлялося про початок будівництва об’єктів СЕС у Черкаській області. ”</em>"
             }
