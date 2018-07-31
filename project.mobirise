@@ -70,8 +70,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
@@ -140,7 +141,7 @@
           "title": "Підписатися на наші оновлення",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Відіслати</a>",
           "form": {
-            "action": "vavgust@gmail.com",
+            "action": "inna.kucherenko@gmail.com",
             "alerts": {
               "success": "Дякуємо за підписку!"
             },
@@ -263,7 +264,7 @@
           "title": "Зв'яжіться з нами",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Зв'язатися</a>",
           "form": {
-            "action": "vavgust@gmail.com",
+            "action": "inna.kucherenko@gmail.com",
             "alerts": {
               "success": "Дякуємо!"
             },
@@ -374,8 +375,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
