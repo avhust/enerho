@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#dropdown-menu-2btn-b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-b .nav .link,
+#dropdown-menu-2btn-b .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-b .navbar,
+#dropdown-menu-2btn-b .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-2btn-b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-b .dropdown-menu a:hover,
+#dropdown-menu-2btn-b .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-2btn-b .navbar-toggler {
+  color: #ffffff;
+}
+#header2-2 H1 {
+  color: #fbfbfb;
+}
+#header2-2 P {
+  color: #fbfbfb;
+}
+#header2-2 .btn {
+  font-size: 22px;
+  font-family: 'Open Sans', sans-serif;
+}
+#testimonials1-4 .card-footer > div {
+  text-align: center;
+  color: #f1c050;
+  font-size: 20px;
+}
