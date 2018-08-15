@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 145,
+    "uniqCompNum": 146,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -42,7 +42,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -359,7 +359,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -686,7 +686,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1013,7 +1013,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1340,7 +1340,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1667,7 +1667,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1994,7 +1994,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2129,22 +2129,19 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f1c050",
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": true
+            "overlayOpacity": 0.5
           },
-          "text": "Поділитися",
+          "text": "Знаходьте нас тут",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> ",
           "alias": "purity/components",
           "_tags": [
-            "Theme"
+            "Тема"
           ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-39"
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-41"
         },
         {
           "_params": {
@@ -2195,6 +2192,31 @@
           ],
           "_name": "form1",
           "_anchor": "form1-3z"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Поділитися",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-39"
         },
         {
           "_params": {
@@ -2256,7 +2278,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2497,7 +2519,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"novyny.html\" aria-expanded=\"false\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>Новини</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"analityka.html\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Аналітика</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pro-nas.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Про нас</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
