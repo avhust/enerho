@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 146,
+    "uniqCompNum": 148,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -2414,25 +2414,38 @@
         },
         {
           "_params": {
-            "showMeta": false
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "Підписатися на наші оновлення",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Відіслати</a>",
+          "form": {
+            "action": "inna.kucherenko@gmail.com",
+            "alerts": {
+              "success": "Дякуємо за підписку!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Ваш Емейл"
+              }
+            }
+          },
           "alias": "purity/components",
           "_tags": [
             "Тема"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3v"
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Підписатися</a> ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3m"
+          "_name": "form2",
+          "_anchor": "form2-43"
         },
         {
           "_params": {
@@ -2587,6 +2600,41 @@
             }
           },
           "_anchor": "content1-2m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Підписатися на наші оновлення",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Відіслати</a>",
+          "form": {
+            "action": "inna.kucherenko@gmail.com",
+            "alerts": {
+              "success": "Дякуємо за підписку!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Ваш Емейл"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-42"
         },
         {
           "_params": {
