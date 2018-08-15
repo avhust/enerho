@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-31_0007",
-    "currentPage": "index.html",
+    "currentPage": "25-06-2018_01-07-2018.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 148,
+    "uniqCompNum": 149,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -1901,13 +1901,39 @@
           "_anchor": "content1-n"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Підписатися</a> ",
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Підписатися на наші оновлення",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Відіслати</a>",
+          "form": {
+            "action": "inna.kucherenko@gmail.com",
+            "alerts": {
+              "success": "Дякуємо за підписку!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Ваш Емейл"
+              }
+            }
+          },
           "alias": "purity/components",
           "_tags": [
-            "Theme"
+            "Тема"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-g"
+          "_name": "form2",
+          "_anchor": "form2-44"
         },
         {
           "_params": {
